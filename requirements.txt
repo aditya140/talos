@@ -1,0 +1,9 @@
+fastapi
+sse_starlette
+uvicorn
+mypy
+numpy
+tokenizers
+openai
+transformers
+torch
